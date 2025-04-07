@@ -1,6 +1,12 @@
 //Stack
+function stack() {
+
+}
 
 //Queue
+function queue() {
+    
+}
 
 //Linked Lists
 function linkedList() {
@@ -17,16 +23,5 @@ function linkedList() {
         size: () => array.length
     }
 }
-
-let todo = new linkedList()
-todo.append("clean room")
-todo.append("laundry")
-todo.prepend("paint walls")
-
-console.log(todo.toString())
-todo.pop()
-todo.head()
-todo.tail()
-console.log(todo.toString())
 
 
