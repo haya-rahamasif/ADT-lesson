@@ -108,6 +108,6 @@ console.log(songs.front()) // shows current song playing (front element of queue
 
 ### Linked Lists
 Since linked lists have a large amount of methods, you will notice that the `js-sdsl` library, which contains a class with methods for the Linked List ADT, has been imported and setup for you in scripts.js. <br><br>
-Your task is to manipulate the created linked list to ssimulate a todo list with items in the order you want to do them. Make sure to experiment with methods that add, remove and examine parts of the array!
+Your task is to manipulate the created linked list to simulate a todo list with items in the order you want to do them. Make sure to experiment with methods that add, remove and examine parts of the array!
 <br><br>
 🧇
